@@ -24,7 +24,7 @@ $(document).ready(function () {
         },
 
         submitHandler: function (form) {
-            alert("Sua requisição foi enviada para análise, parabéns pela aquisição!");
+            alert("Seu cadastro foi realizado com sucesso!");
             form.reset();
         }
     })
